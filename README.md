@@ -3,6 +3,7 @@
 
 
 ![Tela de Login - Google Chrome 2022-05-13 15-22-57](https://user-images.githubusercontent.com/97768716/168344616-be19c049-ce4f-4bb8-bb84-2bbae9e2f8a5.gif)
+![Design_sem_nome__3_-removebg-preview](https://user-images.githubusercontent.com/97768716/172182008-831e95f3-45d4-4630-9e1b-74fd51e623e1.png)
 
   
   <h2 align="center">
